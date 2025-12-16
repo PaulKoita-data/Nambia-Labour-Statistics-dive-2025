@@ -1,2 +1,2 @@
-# Nambia-Labour-Statistics-dive-2025
-Exploring the data behind the Labour Statistics surver done by Namibia Statistics Agency in 2023. This deep dive will make use of the following tools Python,SQL and PowerBI.The main goal of this is to look beyond the unemployment rate and get deeper to further understand the  Unemployment problem in Namibia.
+# Nambia-Labour/inflation and GDP-Statistics-dive-2025
+To analyze how employment outcomes and wages in Namibia interact with economic growth (GDP) and cost of living pressures (CPI), with a focus on labour market sustainability and household affordability.This dive will make use of the following tools Python,SQL and PowerBI.The main goal of this is to look beyond the a simple unemployment rate figure and get deeper to further understand the  Unemployment problem, cost of living pressures and household affordability in Namibia.
