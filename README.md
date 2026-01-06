@@ -1,3 +1,3 @@
-# Nambia-Labour/inflation and GDP-Statistics-dive-2025
+# Nambia-Labour,inflation(CPI) and GDP-Statistics-dive-2025
 Analyzing how employment outcomes and wages in Namibia interact with economic growth (GDP) and cost of living pressures (CPI), with a focus on labour market sustainability and household affordability.This dive will make use of the following tools Python,SQL and PowerBI.The main goal of this is to look beyond the a simple unemployment rate figure and get deeper to further understand the  Unemployment problem, cost of living pressures due to inflation and household affordability in Namibia.
 FNB House index states Overall national house price stands at N$1380042 (3Q25)
