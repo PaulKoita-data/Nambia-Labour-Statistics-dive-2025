@@ -1,4 +1,4 @@
-# 📊 Namibia's Labour Market & Economic Challenges: A Data-Driven Analysis
+#  Namibia's Labour Market & Economic Challenges: A Data-Driven Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-316192?logo=postgresql)
@@ -16,16 +16,16 @@
 Namibia has **one of the highest unemployment rate in SADC** at **36.9%**.
 
 Beyond this headline statistic:
-- 📉 **427,093 youth** (ages 15-34) are NEET - Not in education,Not in employment or training
-- 💰 **55.4% of workers** earn below living wage (N$5,000/month)
-- 📈 **Inflation at 3.4%(November 2025)** annually - eroding purchasing power
-- 🗺️ **52.8% unemployment rate** in worst-hit regions (Kavango)
+- **427,093 youth** (ages 15-34) are NEET - Not in education,Not in employment or training
+- **55.4% of workers** earn below living wage (N$5,000/month)
+- **Inflation at 3.4%(November 2025)** annually - eroding purchasing power
+- **52.8% unemployment rate** in worst-hit regions (Kavango)
 
 **My analysis explores:** What are the underlying patterns? Who is most affected? How do different regions compare?
 
 ---
 
-## 💡 What I Discovered
+##  What I Discovered
 
 ### 1️⃣ **Youth Employment Patterns: The 20-24 Transition Gap**
 
@@ -33,9 +33,9 @@ Beyond this headline statistic:
 
 **The Pattern:**
 ```
-Ages 15-19: 16.9% NEET ✅ (Most in education - expected pattern)
-Ages 20-24: 47.4% NEET ⚠️ (Significant transition challenge)
-Ages 25-34: 53.4% NEET 📊 (Pattern stabilizes at higher level,No change at this level Ages 20-24 mainly remain NEET)
+Ages 15-19: 16.9% NEET  (Most in education - expected pattern)
+Ages 20-24: 47.4% NEET  (Significant transition challenge)
+Ages 25-34: 53.4% NEET  (Pattern stabilizes at higher level,No change at this level Ages 20-24 mainly remain NEET)
 ```
 
 **What This Means:**  
@@ -106,31 +106,31 @@ The data reveals significant regional variation in employment outcomes. National
 
 Meanwhile: Tech, Finance, Professional Services employ **less than 10% combined**.
 
-**What This Means:**  
+**What This Means for Namibia:**  
 Employment is heavily concentrated in sectors with limited wage growth potential and career advancement opportunities. This pattern contributes to the gap between having a job and achieving economic security, and highlights the importance of sectoral diversification and skills development aligned with higher-wage industries.
 
 ---
 
-## 🛠️ How I Built This
+## How I Built This
 
 ### The Data Pipeline
 
 ```
-📊 Excel Files (NSA + Bank of Namibia)
+Excel Files (NSA + Bank of Namibia)
     ↓
-🐍 Python ETL (pandas + SQLAlchemy)
+Python ETL (pandas + SQLAlchemy)
     ↓
-🗄️ PostgreSQL (15 tables)
+PostgreSQL (15 tables)
     ↓
-📈 Power BI (6-page dashboard)
+Power BI (6-page dashboard)
 ```
 
 ### What I Worked With
 
 **Data Sources:**
-- 📊 Namibia Statistics Agency: 2023 Labour Force Survey
-- 📈 Namibia Statistics Agency: CPI data (November 2025)
-- 💹 GDP quarterly data (2015-2024)
+- Namibia Statistics Agency: 2023 Labour Force Survey
+- Namibia Statistics Agency: CPI data (November 2025)
+- GDP quarterly data (2015-2024)
 
 **Total Records:** 546,805 employment records analyzed from the NSA Labour Force Survey
 
@@ -142,7 +142,7 @@ Employment is heavily concentrated in sectors with limited wage growth potential
 
 ---
 
-## 📊 The Dashboard
+## The Dashboard
 
 I built a **6-page interactive Power BI dashboard** that lets you explore:
 
@@ -157,25 +157,25 @@ I built a **6-page interactive Power BI dashboard** that lets you explore:
 
 ---
 
-## 🎯 Implications and Insights
+## Implications and Insights
 
-### 👥 For Job Seekers:
+### For Job Seekers:
 - **Location matters:** Opportunities concentrated in Khomas
 - **Sector matters:** Avoid low-wage traps (Agriculture, Domestic Work)
 - **Skills matter:** But only if jobs exist to use them
 
-### 🏛️ For Policy Makers:
+### For Policy Makers:
 - **Target ages 20-24:** Critical intervention window
 - **Regional solutions:** Regions like Kavango and Ohangwena needs different approach than Windhoek
 - **Wage protection:** Inflation indexing for minimum wage
 - **Job creation > training:** Skills don't help if jobs don't exist
 
-### 🏢 For Businesses:
+### For Businesses:
 - **Untapped talent pool:** 427K youth are not working
 - **Wage sustainability:** Low wages + inflation = productivity loss
 - **Regional expansion:** Underserved markets = opportunity
 
-### 🌍 For Development Orgs:
+### For Development Orgs:
 - **Place-based programs:** One-size-fits-all fails
 - **Food security:** Food inflation hits poor hardest
 - **Youth employment:** Focus on 20-24 transition
@@ -201,7 +201,7 @@ NAMIBIA/
 
 ---
 
-## 🚀 Quick Start
+## For Reproducability
 
 Want to reproduce this analysis?
 
@@ -225,7 +225,7 @@ Want to reproduce this analysis?
 
 ---
 
-## 📖 Detailed Documentation
+## Detailed Documentation
 
 Each folder has its own README with specifics:
 
@@ -237,7 +237,7 @@ Each folder has its own README with specifics:
 
 ---
 
-## 🔬 Technical Highlights
+## Technical Highlights
 
 ### Challenge 1: Date Standardization
 NSA data had inconsistent formats ("Jan-23", "2023/01", "01-2023")  
@@ -258,7 +258,7 @@ COPY command requires files in specific server directory (same folder as postgre
 
 ---
 
-## 📊 Sample Query
+## Sample Query
 
 Here's how I calculated purchasing power loss:
 
@@ -286,7 +286,7 @@ ORDER BY bracket_min;
 
 ---
 
-## 📈 Key Statistics Summary
+## Key Statistics Summary
 
 | Metric | Value | Source |
 |--------|-------|--------|
@@ -300,7 +300,7 @@ ORDER BY bracket_min;
 
 ---
 
-## ⚠️ Limitations & Assumptions
+## Limitations & Assumptions
 
 **Data Limitations:**
 - Cross-sectional (can't track individuals over time)
@@ -323,7 +323,7 @@ I'm passionate about using data to solve real problems.
 
 **PAUL KOITA**  
 📧 paulkoitpss@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/paul-koita-3821212a2/))  
 
 **Open to:**
 - Data Analyst / Economic Research roles
@@ -342,9 +342,6 @@ I'm passionate about using data to solve real problems.
 
 ---
 
-## 📄 License
-
-This project is open source under the MIT License.
 
 **Citation:**
 ```
