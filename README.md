@@ -121,16 +121,16 @@ Employment is heavily concentrated in sectors with limited wage growth potential
 
 ---
 
-###**GDP Contribution by Sector (2025)**
+###**GDP Contribution by Sector (2023)**
 
 | Sector | GDP Share | Employment Share | Gap |
 |--------|-----------|------------------|-----|
 | **Mining and Quarrying** | 19.3% | ~2.6% | Capital-intensive |
 | **Wholesale and Retail Trade** | 11.1% | 12.4% | Balanced |
-| **Manufacturing** | 10.1% | ~8% | Slightly capital-intensive |
+| **Manufacturing** | 9.9% | ~8% | Slightly capital-intensive |
 | **Agriculture and Forestry** | 5.7% | **16.1%** | Labour-intensive |
 | **Transport and Storage** | 2.9% | ~6% | Labour-intensive |
-| **Electricity and Water** | 2.6% | <2% | Capital-intensive |
+| **Electricity and Water** | 2.5% | <2% | Capital-intensive |
 | **Construction** | 1.2% | ~8% | Labour-intensive |
 
 ---
