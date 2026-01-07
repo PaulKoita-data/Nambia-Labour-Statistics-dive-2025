@@ -111,6 +111,190 @@ Employment is heavily concentrated in sectors with limited wage growth potential
 
 ---
 
+### 6 📈 Economic Context: The GDP-Employment Disconnect
+
+### Why Economic Growth Doesn't Translate to Jobs
+
+![GDP vs Employment](images/key_charts/gdp_employment_disconnect.png)
+
+**The Paradox:** Namibia's economy is dominated by high-productivity sectors that generate wealth but create few jobs, while labour-intensive sectors employ most workers but contribute minimally to GDP.
+
+---
+
+###**GDP Contribution by Sector (2025)**
+
+| Sector | GDP Share | Employment Share | Gap |
+|--------|-----------|------------------|-----|
+| **Mining and Quarrying** | 19.3% | ~2.6% | Capital-intensive |
+| **Wholesale and Retail Trade** | 11.1% | 12.4% | Balanced |
+| **Manufacturing** | 10.1% | ~8% | Slightly capital-intensive |
+| **Agriculture and Forestry** | 5.7% | **18.8%** | Labour-intensive |
+| **Transport and Storage** | 2.9% | ~6% | Labour-intensive |
+| **Electricity and Water** | 2.6% | <2% | Capital-intensive |
+| **Construction** | 1.2% | ~8% | Labour-intensive |
+
+---
+
+### **The Key Finding:**
+
+**Mining generates 19.3% of GDP but employs only ~3-5% of workers.**  
+**Agriculture employs 18.8% of workers but generates only 5.7% of GDP.**
+
+This 3:1 ratio reveals why:
+- GDP can grow while unemployment remains at 36.9%
+- Economic growth benefits don't reach most workers
+- High-employment sectors offer limited wage growth
+
+---
+
+### **Sector Growth Patterns (Average Annual Growth)**
+
+**Fast-Growing Sectors:**
+1. 🔺 **Mining and Quarrying:** 12.0% growth → Employs few workers
+2. 🔺 **Wholesale and Retail Trade:** 10.8% growth → Employs 12.4%
+3. 🔺 **Manufacturing:** 10.7% growth → Employs ~8%
+
+**Moderate Growth:**
+4. **Agriculture and Forestry:** 5.6% growth → Employs 18.8%
+5. **Electricity and Water:** 3.3% growth → Employs <2%
+6. **Transport and Storage:** 3.1% growth → Employs ~6%
+
+**Slow-Growing Sectors:**
+7. **Fishing:** 2.7% growth → Employs ~2%
+8. **Construction:** 1.5% growth → Employs ~8%
+9. **Hotels and Restaurants:** 1.5% growth → Employs ~5%
+
+---
+
+### **What This Reveals:**
+
+**1. The Capital-Intensive Trap**
+- Mining (19.3% GDP, 12% growth) is highly productive but creates minimal jobs
+- Each mining job generates ~4-6x more GDP than agriculture job
+- But mining employs only 3-5% of workforce vs agriculture's 18.8%
+
+**2. The Growth-Employment Gap**
+- Fastest-growing sector (Mining: 12.0%) employs fewest people
+- Labour-intensive sectors (Agriculture: 5.6%) grow slowest
+- Result: Economic growth bypasses most workers
+
+**3. The Agriculture Challenge**
+- Employs 16.1% (102,000+ workers)
+- Contributes only 5.7% to GDP
+- Growing at moderate 5.6% annually
+- **Insight:** Low productivity keeps wages suppressed despite high employment
+
+---
+
+### **Policy Implications:**
+
+**The Data Shows:**
+Current economic structure creates GDP growth without job creation. To address unemployment:
+
+1. **Boost agricultural productivity** → Raise wages for 16.1% of workforce without shedding jobs
+2. **Linkages between sectors** → Mining purchases from local manufacturing/services
+3. **Labour-intensive manufacturing** → Target 10.7% growth sector for job expansion
+4. **Construction sector support** → Growing slowly (1.5%) despite employing 8%
+
+**The Bottom Line:**
+Namibia needs growth strategy that prioritizes **job-rich sectors**, not just **GDP-rich sectors**.
+
+---
+
+### **Comparison: High-GDP vs High-Employment Sectors**
+
+```
+High GDP, Low Employment (Capital-Intensive):
+├─ Mining: 19.3% GDP → 2.6% employment
+├─ Manufacturing: 10.1% GDP → 8% employment
+└─ Electricity: 2.6% GDP → <2% employment
+
+High Employment, Lower GDP (Labour-Intensive):
+├─ Agriculture: 16.1% employment → 5.7% GDP
+├─ Retail Trade: 12.4% employment → 11.1% GDP (best balance!)
+└─ Construction: 8% employment → 1.2% GDP
+```
+
+**Best Performer:** Wholesale and Retail Trade (11.1% GDP, 12.4% employment) - nearly balanced!
+
+---
+
+### **Visual Insight: Capital Intensity Ratio**
+
+**Formula:** GDP Share ÷ Employment Share = Capital Intensity
+
+| Sector | Ratio | Interpretation |
+|--------|-------|----------------|
+| Mining | 19.3% ÷ 2.6% = **7.4** | Extremely capital-intensive |
+| Manufacturing | 10.1% ÷ 8% = **1.3** | Moderately capital-intensive |
+| Retail Trade | 11.1% ÷ 12.4% = **0.9** | Labour-intensive (balanced) |
+| Agriculture | 5.7% ÷ 18.8% = **0.3** | Very labour-intensive |
+
+**Interpretation:**
+- Ratio > 2 = Capital-intensive (few jobs per GDP unit)
+- Ratio ~ 1 = Balanced (jobs match GDP contribution)
+- Ratio < 0.5 = Labour-intensive (many jobs, low GDP)
+
+---
+
+## 🎯 Key Takeaway
+
+**Namibia's unemployment challenge isn't just about jobs - it's about economic structure.**
+
+The economy is optimized for GDP growth through capital-intensive sectors (mining), not employment creation. Even 12% annual growth in mining won't significantly reduce unemployment because it employs so few people.
+
+**Solution requires:** 
+- Redirecting growth to labour-intensive sectors (agriculture, manufacturing, services)
+- OR improving productivity in existing high-employment sectors
+- OR creating stronger linkages so capital-intensive growth benefits labour-intensive sectors
+
+---
+
+## 📊 Data Sources
+
+- **GDP Share:** Namibia StatisticsAgency, GDP by Industry (2023)
+- **GDP Growth:** Namibia Statistics Agency, Quarterly GDP Reports (2015-2024 average)
+- **Employment Share:** NSA 2023 Labour Force Survey
+
+---
+
+## 🔗 Related Findings
+
+This economic context helps explain:
+- **Finding #2:** Why 55.4% earn below living wage (concentration in low-productivity sectors)
+- **Finding #4:** Regional disparities (mining concentrated in specific regions)
+- **Finding #5:** Sectoral concentration (labour-intensive sectors offer limited wages)
+
+---
+
+**[Previous Finding] ← | → [Next: Implications and Insights]**
+
+---
+
+## Quick Stats Box (Optional - Add to Sidebar/KPI)
+
+```
+┌─────────────────────────────────┐
+│  GDP-EMPLOYMENT GAP             │
+├─────────────────────────────────┤
+│  Mining:                        │
+│  • 19.3% of GDP                 │
+│  • 2.6% of employment           │
+│  • 12.0% annual growth          │
+│                                 │
+│  Agriculture:                   │
+│  • 5.7% of GDP                  │
+│  • 16.1% of employment          │
+│  • 5.6% annual growth           │
+│                                 │
+│  Capital Intensity Ratio:       │
+│  Mining/Agriculture = 16:1      │
+└─────────────────────────────────┘
+```
+
+---
+
+---
 ## How I Built This
 
 ### The Data Pipeline
