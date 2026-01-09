@@ -425,12 +425,12 @@ Each folder has its own README with specifics:
 
 ### Challenge 1: Date Standardization
 NSA data had inconsistent formats ("Jan-23", "2023/01", "01-2023")  
-**Solution:** Excel preprocessing → Python multi-format parsing  
+**Solution:** Excel preprocessing and Python multi-format parsing  
 [Details →](documentation/README.md#challenges)
 
 ### Challenge 2: Wide-to-Long Transformation
 GDP had quarters as columns - needed long format for analysis  
-**Solution:** Custom `unpivot_quarterly()` function  
+**Solution:** Custom `unpivot_quarterly()` function in python 
 [Details →](documentation/README.md#challenges)
 
 ### Challenge 3: PostgreSQL Import Mechanics
@@ -455,7 +455,7 @@ WITH inflation AS (
 SELECT 
     income_bracket,
     total_number as workers,
-    -- Wrap the math in parentheses and cast to numeric
+    
     ROUND(
         (((bracket_min + bracket_max) / 2) * (rate / 100 / 12))::numeric, 
         2
@@ -466,7 +466,7 @@ WHERE bracket_max IS NOT NULL
 ORDER BY bracket_min;
 ```
 
-**[See all 27 queries →](data/processed/README.md#queries)**
+**[See queries →](data/processed/README.md#queries)**
 
 ---
 
@@ -497,7 +497,7 @@ ORDER BY bracket_min;
 - Inflation impacts all income groups proportionally (likely understates impact on poor)
 - Employment categories are mutually exclusive
 
-**Impact:** These numbers are likely **floor estimates** - reality may be worse.
+**Impact:** These numbers are likely **floor estimates** or lowerbound estimates - reality may be worse.
 
 ---
 
