@@ -63,7 +63,8 @@ You can work full-time and still be poor. Over half of employed workers can't me
 **The Math:**
 ```
 Worker earning N$1,000/month
-Inflation: 3.6% annually
+Inflation: 3.4% November inflation 2025 improved from 5.89% average annualy from 2023
+Inflation
 
 Year 1: N$1,000 → Real value: N$964
 Year 2: N$1,000 → Real value: N$929  
@@ -123,22 +124,22 @@ Employment is heavily concentrated in sectors with limited wage growth potential
 
 ###**GDP Contribution by Sector (2023)**
 
-| Sector | GDP Share | Employment Share | Gap |
+| Sector | GDP Share(Q4 2023) | Employment Share | Gap |
 |--------|-----------|------------------|-----|
-| **Mining and Quarrying** | 19.3% | ~2.6% | Capital-intensive |
-| **Wholesale and Retail Trade** | 11.1% | 12.4% | Balanced |
-| **Manufacturing** | 9.9% | ~8% | Slightly capital-intensive |
+| **Mining and Quarrying** | 19.3% | 2.6% | Capital-intensive |
+| **Wholesale and Retail Trade** | 11.1% | 10% | Balanced |
+| **Manufacturing** | 10.1% | 9.8% | Balanced |
 | **Agriculture and Forestry** | 5.7% | **16.1%** | Labour-intensive |
-| **Transport and Storage** | 2.9% | ~6% | Labour-intensive |
-| **Electricity and Water** | 2.5% | <2% | Capital-intensive |
-| **Construction** | 1.2% | ~8% | Labour-intensive |
-
+| **Transport and Storage** | 2.9% | 3.3% | Balanced |
+| **Electricity and Water** | 2.5% | 0.7% | Capital-intensive |
+| **Construction** | 1.2% | 5.2% | Labour-intensive |
+Fishing and fish processing on board
 ---
 
 ### **The Key Finding:**
 
-**Mining generates 19.3% of GDP but employs only ~3-5% of workers.**  
-**Agriculture employs 18.8% of workers but generates only 5.7% of GDP.**
+**Mining generates 19.3% of GDP but employs only ~2.6% of workers.**  
+**Agriculture employs 16.1% of workers but generates only 5.7% of GDP.**
 
 This 3:1 ratio reveals why:
 - GDP can grow while unemployment remains at 36.9%
@@ -147,35 +148,35 @@ This 3:1 ratio reveals why:
 
 ---
 
-### **Sector Growth Patterns (Average Annual Growth)**
+### **Sector Growth Patterns (Average Annual Growth 2023)**
 
 **Fast-Growing Sectors:**
-1. 🔺 **Mining and Quarrying:** 12.0% growth → Employs few workers
-2. 🔺 **Wholesale and Retail Trade:** 10.8% growth → Employs 12.4%
-3. 🔺 **Manufacturing:** 10.7% growth → Employs ~8%
+1. 🔺 **Mining and Quarrying:** 14.573% growth → Employs few workers
+2. 🔺 **Wholesale and Retail Trade:** % growth → Employs 10%
+3. 🔺 **Manufacturing:** % growth → Employs 9.8%
 
 **Moderate Growth:**
-4. **Agriculture and Forestry:** 5.6% growth → Employs 18.8%
+4. **Agriculture and Forestry:** 5.7% growth → Employs 16.1%
 5. **Electricity and Water:** 3.3% growth → Employs <2%
 6. **Transport and Storage:** 3.1% growth → Employs ~6%
 
 **Slow-Growing Sectors:**
-7. **Fishing:** 2.7% growth → Employs ~2%
-8. **Construction:** 1.5% growth → Employs ~8%
-9. **Hotels and Restaurants:** 1.5% growth → Employs ~5%
+7. **Fishing:** % growth → Employs ~2%
+8. **Construction:** % growth → Employs ~8%
+9. **Hotels and Restaurants:** % growth → Employs ~5%
 
 ---
 
 ### **What This Reveals:**
 
 **1. The Capital-Intensive Trap**
-- Mining (19.3% GDP, 12% growth) is highly productive but creates minimal jobs
+- Mining (19.3% GDP, 14.573% growth) is highly productive but creates minimal jobs
 - Each mining job generates ~4-6x more GDP than agriculture job
-- But mining employs only 3-5% of workforce vs agriculture's 18.8%
+- But mining employs only 2.6% of workforce vs agriculture's 16.1%
 
 **2. The Growth-Employment Gap**
-- Fastest-growing sector (Mining: 12.0%) employs fewest people
-- Labour-intensive sectors (Agriculture: 5.6%) grow slowest
+- Fastest-growing sector (Mining: 14.573%) employs fewest people
+- Labour-intensive sectors (Agriculture: 5.7%) grow slowest
 - Result: Economic growth bypasses most workers
 
 **3. The Agriculture Challenge**
@@ -194,7 +195,7 @@ Current economic structure creates GDP growth without job creation. To address u
 1. **Boost agricultural productivity** → Raise wages for 16.1% of workforce without shedding jobs
 2. **Linkages between sectors** → Mining purchases from local manufacturing/services
 3. **Labour-intensive manufacturing** → Target 10.7% growth sector for job expansion
-4. **Construction sector support** → Growing slowly (1.5%) despite employing 8%
+4. **Construction sector support** → Growing slowly (1.5%) despite employing 5.2%
 
 **The Bottom Line:**
 Namibia needs growth strategy that prioritizes **job-rich sectors**, not just **GDP-rich sectors**.
@@ -206,7 +207,7 @@ Namibia needs growth strategy that prioritizes **job-rich sectors**, not just **
 ```
 High GDP, Low Employment (Capital-Intensive):
 ├─ Mining: 19.3% GDP → 2.6% employment
-├─ Manufacturing: 10.1% GDP → 8% employment
+├─ Manufacturing: 10.1% GDP → 9.8% employment
 └─ Electricity: 2.6% GDP → <2% employment
 
 High Employment, Lower GDP (Labour-Intensive):
