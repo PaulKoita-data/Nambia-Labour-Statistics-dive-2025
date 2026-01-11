@@ -63,14 +63,13 @@ You can work full-time and still be poor. Over half of employed workers can't me
 **The Math:**
 ```
 Worker earning N$1,000/month
-Inflation: 3.4% November inflation 2025 improved from 5.89% average annualy from 2023
-Inflation
+Inflation: 3.4% November inflation 2025 improved from 5.89% average annualy in 2023(date the income distributions where recorded.
 
-Year 1: N$1,000 → Real value: N$964
-Year 2: N$1,000 → Real value: N$929  
-Year 3: N$1,000 → Real value: N$897
+Year 1: N$1,000 → Real value: N$941
+Year 2: N$1,000 → Real value: N$886  
+Year 3: N$1,000 → Real value: N$834
 
-After 3 years: Lost 10.3% purchasing power
+After 3 years: Lost 16.6% purchasing power
 ```
 
 **Impact:** 302,210 workers earning below N$5,000 experience a gradual decline in real purchasing power. With fixed nominal wages and rising costs for food, rent, and transport, their economic position becomes increasingly challenging over time.
@@ -129,11 +128,10 @@ Employment is heavily concentrated in sectors with limited wage growth potential
 | **Mining and Quarrying** | 19.3% | 2.6% | Capital-intensive |
 | **Wholesale and Retail Trade** | 11.1% | 10% | Balanced |
 | **Manufacturing** | 10.1% | 9.8% | Balanced |
-| **Agriculture and Forestry** | 5.7% | **16.1%** | Labour-intensive |
+| **Agriculture,Forestry and Fishing** | 5.7% | **16.1%** | Labour-intensive |
 | **Transport and Storage** | 2.9% | 3.3% | Balanced |
 | **Electricity and Water** | 2.5% | 0.7% | Capital-intensive |
 | **Construction** | 1.2% | 5.2% | Labour-intensive |
-Fishing and fish processing on board
 ---
 
 ### **The Key Finding:**
@@ -151,38 +149,37 @@ This 3:1 ratio reveals why:
 ### **Sector Growth Patterns (Average Annual Growth 2023)**
 
 **Fast-Growing Sectors:**
-1. 🔺 **Mining and Quarrying:** 14.573% growth → Employs few workers
-2. 🔺 **Wholesale and Retail Trade:** % growth → Employs 10%
-3. 🔺 **Manufacturing:** % growth → Employs 9.8%
+1. 🔺 **Mining and Quarrying:** 14.6% growth → Employs 2.6%
+2. 🔺 **Manufacturing:** 11% growth → Employs 9.8%
 
 **Moderate Growth:**
-4. **Agriculture and Forestry:** 5.7% growth → Employs 16.1%
-5. **Electricity and Water:** 3.3% growth → Employs <2%
-6. **Transport and Storage:** 3.1% growth → Employs ~6%
+4. **Agriculture and Forestry:** 4.8% growth → Employs 16.1%
+5. **Electricity and Water:** 3.1% growth → Employs <1%
+6. **Transport and Storage:** 3.1% growth → Employs 3.3%
 
 **Slow-Growing Sectors:**
-7. **Fishing:** % growth → Employs ~2%
-8. **Construction:** % growth → Employs ~8%
-9. **Hotels and Restaurants:** % growth → Employs ~5%
+7. **fishing and fish processing on board:** 2.9% growth 
+8. **Construction:** 1.3% growth → Employs 5.2%
+9. **Hotels and Restaurants:** 1.5% growth → Employs ~5%
 
 ---
 
 ### **What This Reveals:**
 
 **1. The Capital-Intensive Trap**
-- Mining (19.3% GDP, 14.573% growth) is highly productive but creates minimal jobs
-- Each mining job generates ~4-6x more GDP than agriculture job
-- But mining employs only 2.6% of workforce vs agriculture's 16.1%
+- Mining (19.3% GDP, 14.6% growth) is highly productive but creates minimal jobs
+- Each mining job generates ~4-6x more GDP than Agriculture and Forestry job
+- But mining employs only 2.6% of workforce vs Agriculture and Forestry's ~16.1%
 
 **2. The Growth-Employment Gap**
 - Fastest-growing sector (Mining: 14.573%) employs fewest people
-- Labour-intensive sectors (Agriculture: 5.7%) grow slowest
+- Labour-intensive sectors (Agriculture and Forestry: 4.8%) grow slowest
 - Result: Economic growth bypasses most workers
 
 **3. The Agriculture Challenge**
 - Employs 16.1% (102,000+ workers)
 - Contributes only 5.7% to GDP
-- Growing at moderate 5.6% annually
+- Growing at moderate 4.8% annually
 - **Insight:** Low productivity keeps wages suppressed despite high employment
 
 ---
@@ -195,7 +192,7 @@ Current economic structure creates GDP growth without job creation. To address u
 1. **Boost agricultural productivity** → Raise wages for 16.1% of workforce without shedding jobs
 2. **Linkages between sectors** → Mining purchases from local manufacturing/services
 3. **Labour-intensive manufacturing** → Target 10.7% growth sector for job expansion
-4. **Construction sector support** → Growing slowly (1.5%) despite employing 5.2%
+4. **Construction sector support** → Growing slowly (1.3%) despite employing 5.2%
 
 **The Bottom Line:**
 Namibia needs growth strategy that prioritizes **job-rich sectors**, not just **GDP-rich sectors**.
@@ -207,29 +204,28 @@ Namibia needs growth strategy that prioritizes **job-rich sectors**, not just **
 ```
 High GDP, Low Employment (Capital-Intensive):
 ├─ Mining: 19.3% GDP → 2.6% employment
-├─ Manufacturing: 10.1% GDP → 9.8% employment
-└─ Electricity: 2.6% GDP → <2% employment
+├─ Electricity and Water: 2.5% GDP → <1% employment
 
 High Employment, Lower GDP (Labour-Intensive):
-├─ Agriculture: 16.1% employment → 5.7% GDP
-├─ Retail Trade: 12.4% employment → 11.1% GDP (best balance!)
-└─ Construction: 8% employment → 1.2% GDP
+├─ Agriculture,Forestry and Fishing: 16.1% employment → 5.7% GDP
+├─ Retail Trade: 12.4% employment → 11.1% GDP (nearly balanced)
+└─ Construction: 5.2% employment → 1.2% GDP
 ```
 
 **Best Performer:** Wholesale and Retail Trade (11.1% GDP, 12.4% employment) - nearly balanced!
 
 ---
 
-### **Visual Insight: Capital Intensity Ratio**
+### **Visual Insight: Capital Intensity Ratio(2023)**
 
 **Formula:** GDP Share ÷ Employment Share = Capital Intensity
 
 | Sector | Ratio | Interpretation |
 |--------|-------|----------------|
 | Mining | 19.3% ÷ 2.6% = **7.4** | Extremely capital-intensive |
-| Manufacturing | 10.1% ÷ 8% = **1.3** | Moderately capital-intensive |
+| Manufacturing | 10.1% ÷ 9.8% = **1.1** | Balanced |
 | Retail Trade | 11.1% ÷ 12.4% = **0.9** | Labour-intensive (balanced) |
-| Agriculture | 5.7% ÷ 18.8% = **0.3** | Very labour-intensive |
+| Agriculture,Forestry and Fishing | 5.7% ÷ 16.1% = **0.35** | Very labour-intensive |
 
 **Interpretation:**
 - Ratio > 2 = Capital-intensive (few jobs per GDP unit)
@@ -242,10 +238,10 @@ High Employment, Lower GDP (Labour-Intensive):
 
 **Namibia's unemployment challenge isn't just about jobs - it's about economic structure.**
 
-The economy is optimized for GDP growth through capital-intensive sectors (mining), not employment creation. Even 12% annual growth in mining won't significantly reduce unemployment because it employs so few people.
+The economy is optimized for GDP growth through capital-intensive sectors (mining), not employment creation. Even 14.6% annual growth in mining won't significantly reduce unemployment because it employs so few people.
 
 **Solution requires:** 
-- Redirecting growth to labour-intensive sectors (agriculture, manufacturing, services)
+- Redirecting growth to labour-intensive sectors (agriculture,forestry and fishing, construction, services)
 - OR improving productivity in existing high-employment sectors
 - OR creating stronger linkages so capital-intensive growth benefits labour-intensive sectors
 
@@ -281,15 +277,15 @@ This economic context helps explain:
 │  Mining:                        │
 │  • 19.3% of GDP                 │
 │  • 2.6% of employment           │
-│  • 12.0% annual growth          │
+│  • 14.6% annual growth          │
 │                                 │
 │  Agriculture:                   │
 │  • 5.7% of GDP                  │
 │  • 16.1% of employment          │
-│  • 5.6% annual growth           │
+│  • 4.8% annual growth           │
 │                                 │
 │  Capital Intensity Ratio:       │
-│  Mining/Agriculture = 16:1      │
+│  Mining/Agriculture = 21:1      │
 └─────────────────────────────────┘
 ```
 
@@ -429,12 +425,12 @@ NSA data had inconsistent formats ("Jan-23", "2023/01", "01-2023")
 **Solution:** Excel preprocessing and Python multi-format parsing  
 [Details →](documentation/README.md#challenges)
 
-### Challenge 2: Wide-to-Long Transformation
+### Challenge 2: Table Transformation
 GDP had quarters as columns - needed long format for analysis  
 **Solution:** Custom `unpivot_quarterly()` function in python 
 [Details →](documentation/README.md#challenges)
 
-### Challenge 3: PostgreSQL Import Mechanics
+### Challenge 3: Importing to PostgreSQL
 COPY command requires files in specific server directory (same folder as postgres application) 
 **Solution:** Hybrid approach - COPY for speed, SQLAlchemy for flexibility  
 [Details →](documentation/README.md#challenges)
@@ -445,27 +441,7 @@ COPY command requires files in specific server directory (same folder as postgre
 
 ## Sample Query
 
-Here's how I calculated purchasing power loss:
 
-```sql
--- Show how much each income group loses to inflation
-WITH inflation AS (
-    SELECT AVG(annual_inflation_rate) as rate
-    FROM namibia_cpi
-)
-SELECT 
-    income_bracket,
-    total_number as workers,
-    
-    ROUND(
-        (((bracket_min + bracket_max) / 2) * (rate / 100 / 12))::numeric, 
-        2
-    ) as monthly_loss
-FROM income_distribution
-CROSS JOIN inflation
-WHERE bracket_max IS NOT NULL
-ORDER BY bracket_min;
-```
 
 **[See queries →](data/processed/README.md#queries)**
 
@@ -547,6 +523,6 @@ If you found this analysis valuable:
 
 ---
 
-**Built with:** Python • PostgreSQL • Power BI • Excel 
+**Built with:**  Excel • PostgreSQL • Power BI • Python 
 
 **Tags:** `unemployment-analysis` `namibia` `sadc` `youth-employment` `neet-crisis` `data-analysis` `postgresql` `power-bi` `economic-research` `southern-africa`
