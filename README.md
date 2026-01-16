@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Understanding the Challenges
+## Understanding the Challenges
 
 Namibia has **one of the highest unemployment rate in SADC** at **36.9%**.
 
@@ -111,7 +111,7 @@ Employment is heavily concentrated in sectors with limited wage growth potential
 
 ---
 
-### 6 📈 Economic Context: The GDP-Employment Disconnect
+### 6 Economic Context: The GDP-Employment Disconnect
 
 ### Why Economic Growth Doesn't Translate to Jobs
 
@@ -149,8 +149,8 @@ This 3:1 ratio reveals why:
 ### **Sector Growth Patterns (Average Annual Growth 2023)**
 
 **Fast-Growing Sectors:**
-1. 🔺 **Mining and Quarrying:** 14.6% growth → Employs 2.6%
-2. 🔺 **Manufacturing:** 11% growth → Employs 9.8%
+1.  **Mining and Quarrying:** 14.6% growth → Employs 2.6%
+2.  **Manufacturing:** 11% growth → Employs 9.8%
 
 **Moderate Growth:**
 4. **Agriculture and Forestry:** 4.8% growth → Employs 16.1%
@@ -234,7 +234,7 @@ High Employment, Lower GDP (Labour-Intensive):
 
 ---
 
-## 🎯 Key Takeaway
+##  Key Takeaway
 
 **Namibia's unemployment challenge isn't just about jobs - it's about economic structure.**
 
@@ -247,7 +247,7 @@ The economy is optimized for GDP growth through capital-intensive sectors (minin
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 - **GDP Share:** Namibia StatisticsAgency, GDP by Industry (2023)
 - **GDP Growth:** Namibia Statistics Agency, Quarterly GDP Reports (2015-2024 average)
@@ -483,8 +483,8 @@ COPY command requires files in specific server directory (same folder as postgre
 I'm passionate about using data to solve real problems.
 
 **PAUL KOITA**  
-📧 paulkoitpss@gmail.com  
-💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/paul-koita-3821212a2/))  
+ paulkoitpss@gmail.com  
+ [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/paul-koita-3821212a2/))  
 
 **Open to:**
 - Data Analyst / Economic Research roles
@@ -494,7 +494,7 @@ I'm passionate about using data to solve real problems.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Namibia Statistics Agency** - Open, accessible data
 - **Bank of Namibia** - Economic indicators
@@ -513,12 +513,12 @@ Data: Namibia Statistics Agency (2023-2025), Bank of Namibia (2025)
 
 ---
 
-## ⭐ If This Helped You
+##  If This Helped You
 
 If you found this analysis valuable:
-- ⭐ **Star this repository** (helps others discover it)
-- 🔄 **Share on LinkedIn** (spread awareness)
-- 💬 **Open an issue** if you find insights I missed
+-  **Star this repository** (helps others discover it)
+- **Share on LinkedIn** (spread awareness)
+-  **Open an issue** if you find insights I missed
 - 🤝 **Contribute** if you have additional data
 
 ---
